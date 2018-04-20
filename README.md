@@ -1,0 +1,2 @@
+# Spatial_Mapping_Speaker
+This program make any set of powered speaker turn into a spatially aware sound system which adjusts the equalizer settings based on room/location size. The code itself runs on an Arduino board and controls a DFPlayer mini[MP3 module for audio playback and equalizer adjustment], Ultrasonic Sensor (HC-SR04)[distance measurement around the room - input] and a Servomotor[to adjust the direction of the Ultrasonic sensor]
